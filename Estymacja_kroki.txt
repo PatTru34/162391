@@ -1,0 +1,6 @@
+1 Zaprojektowanie okien formularza
+2 Przygotowanie bazy danych
+3 Graficzne dostosowanie formularza
+4 stworzenie API
+5 testy techniczne
+6 wdrożenie aplikacji
